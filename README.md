@@ -33,3 +33,5 @@ Lưu chương trình: (Lưu ý lưu file dưới dạng: **Tên file.py**).
 Chạy chương trình: Nhấn Enter để chạy chương trình thành công.
 ![image](https://user-images.githubusercontent.com/129259654/229481370-67b16c7d-2797-4282-8617-7fc0e552843f.png)
  **Lưu ý:** Có thể sử dụng các cửa sổ dòng lệnh khác để thực thi chương trình hoặc các công cụ khác được tích hợp sẳn.
+ 
+ [Netmiko](https://github.com/vnpro149/Netmiko-Python/edit/main/Netmiko.md#netmiko)
